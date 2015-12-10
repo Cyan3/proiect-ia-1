@@ -18,7 +18,7 @@
 
   <fear>
     <scary_bug>
-      <sentiment> 2.0</sentiment>
+      <sentiment> -2.0</sentiment>
       <emotion> 0.192</emotion>
     </scary_bug>
   </fear>

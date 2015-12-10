@@ -1,0 +1,44 @@
+<imageAnno>
+
+	<serenity>
+
+
+		<calm_serenity>
+
+			<sentiment>2.0 </sentiment>
+			<emotion>0.902 </emotion>
+
+		</calm_serenity>
+
+
+		<peaceful_serenity>
+
+			<sentiment>1.82 </sentiment>
+			<emotion>0.902 </emotion>
+
+		</peaceful_serenity>
+
+
+	</serenity>
+
+
+	<pensiveness>
+
+
+		<young_adult>
+
+			<sentiment>1.58 </sentiment>
+			<emotion>0.105 </emotion>
+
+		</young_adult>
+
+
+		<quiet_scene>
+			<sentiment>1.64 </sentiment>
+			<emotion>0.080 </emotion>
+		</quiet_scene>
+
+	</pensiveness>
+
+
+</imageAnno>
