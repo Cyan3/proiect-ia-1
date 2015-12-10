@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <anger>
+    <angry_face>
+      <sentiment>-1.87</sentiment>
+      <emotion>0.486</emotion>
+    </angry_face>
+  </anger>
+
+  <disgust>
+    <fat_spider>
+      <sentiment>-1.76</sentiment>
+      <emotion>0.262</emotion>
+    </fat_spider>
+  </disgust>
+
+  <fear>
+    <scary_monster>
+      <sentiment> -2.0</sentiment>
+      <emotion> 0.208</emotion>
+    </scary_monster>
+  </fear>
+
+  <joy>
+    <happy_guy>
+      <sentiment>1.61 </sentiment>
+      <emotion>0.312</emotion>
+    </happy_guy>
+  </joy>
+
+  <surprise>
+    <excited_face>
+      <sentiment> 1.53 </sentiment>
+      <emotion> 0.266</emotion>
+    </excited_face>
+  </surprise>
+  
+</imageAnno>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+<sadness>
+  <sad_scene>
+    <sentiment>-1.28</sentiment>
+    <emotion>0.793</emotion>
+  </sad_scene>
+</sadness>
+
+<pensiveness>
+  <hurt_eyes>
+    <sentiment>-1.53</sentiment>
+    <emotion>0.070</emotion>
+  </hurt_eyes>
+</pensiveness>
+
+  
+</imageAnno>

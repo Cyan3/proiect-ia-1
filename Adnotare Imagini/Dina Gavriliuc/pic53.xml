@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+   <joy>
+    <happy_heart>
+      <sentiment>2.0 </sentiment>
+      <emotion>0.329</emotion>
+    </happy_heart>
+  </joy>
+
+  <ecstasy>
+    <inspirational_poster>
+      <sentiment>1.66</sentiment>
+      <emotion>0.110</emotion>
+    </inspirational_poster>
+  </ecstasy>
+<interest>
+  <traditional_market>
+    <sentiment>1.46</sentiment>
+    <emotion>0.231</emotion>
+  </traditional_market>
+</interest>
+
+<trust>
+    <friendly_face>
+      <sentiment>1.53</sentiment>
+      <emotion>0.062</emotion>
+    </friendly_face>
+  </trust>
+
+ <admiration>
+  <excellent_view>
+    <sentiment>1.55</sentiment>
+    <emotion>0.162</emotion>
+  </excellent_view>
+</admiration>
+
+
+  
+</imageAnno>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+ <interest>
+  <pleasant_view>
+    <sentiment>1.69</sentiment>
+    <emotion>0.187</emotion>
+  </pleasant_view>
+</interest>
+
+<anticipation>
+  <awesome_nature>
+    <sentiment>1.85</sentiment>
+    <emotion>0.087</emotion>
+  </awesome_nature>
+</anticipation>
+  
+</imageAnno>

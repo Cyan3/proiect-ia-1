@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+<interest>
+  <pretty_tree>
+    <sentiment>1.59</sentiment>
+    <emotion>0.65</emotion>
+  </pretty_tree>
+</interest>
+
+<anticipation>
+  <sunny_morning>
+    <sentiment>1.65</sentiment>
+    <emotion>0.120</emotion>
+  </sunny_morning>
+</anticipation>
+
+
+</imageAnno>

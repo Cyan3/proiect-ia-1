@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+  
+<interest>
+  <charming_places>
+    <sentiment>1.6</sentiment>
+    <emotion>0.194</emotion>
+  </charming_places>
+</interest>
+
+<anticipation>
+  <traditional_christmas>
+    <sentiment>1.81</sentiment>
+    <emotion>0.061</emotion>
+  </traditional_christmas>
+</anticipation>
+
+
+  
+</imageAnno>

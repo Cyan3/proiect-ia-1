@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+  
+<interest>
+  <lost_city>
+    <sentiment>-0.79</sentiment>
+    <emotion>0.103</emotion>
+  </lost_city>
+</interest>
+
+<anticipation>
+  <lovely_morning>
+    <sentiment>1.65</sentiment>
+    <emotion>0.272</emotion>
+  </lovely_morning>
+</anticipation>
+
+
+  
+</imageAnno>

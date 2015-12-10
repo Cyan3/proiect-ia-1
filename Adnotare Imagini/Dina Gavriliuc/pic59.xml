@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+   <joy>
+  <cute_kids>
+    <sentiment>2.0</sentiment>
+    <emotion>0.130</emotion>
+  </cute_kids>
+</joy>
+
+   <ecstasy>
+    <inspirational_poster>
+      <sentiment>1.66</sentiment>
+      <emotion>0.110</emotion>
+    </inspirational_poster>
+  </ecstasy>
+
+  <admiration>
+  <strong_feelings>
+    <sentiment>1.34</sentiment>
+    <emotion>0.066</emotion>
+  </strong_feelings>
+</admiration>
+
+<anticipation>
+  <awesome_nature>
+    <sentiment>1.85</sentiment>
+    <emotion>0.087</emotion>
+  </awesome_nature>
+</anticipation>
+  
+</imageAnno>

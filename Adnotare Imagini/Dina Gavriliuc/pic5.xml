@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <fear>
+  	<scared_children>
+      <sentiment>-1.68 </sentiment>
+      <emotion>0.181 </emotion>
+    </scared_children>
+  </fear>
+
+  <joy>
+    <happy_kids>
+      <sentiment>2.0 </sentiment>
+      <emotion>0.323</emotion>
+    </happy_kids>
+  </joy>
+
+  <anger>
+    <mad_face> 
+      <sentiment> -1.47</sentiment>
+      <emotion> 0.134</emotion>
+    </mad_face>
+  </anger>
+
+  <sadness>
+    <sad_eyes>
+      <sentiment> -1.45</sentiment>
+      <emotion> 0.716</emotion>
+    </sad_eyes>
+  </sadness>
+
+  <disgust>
+    <ugly_fish>
+      <sentiment> -0.94</sentiment>
+      <emotion>0.229</emotion>
+    </dirty_hands>
+  </disgust>
+
+  <surprise>
+    <nice_surprise>
+      <sentiment> 1.83</sentiment>
+      <emotion>0.721</emotion>
+    </nice_surprise>
+  </surprise>
+  
+</imageAnno>
