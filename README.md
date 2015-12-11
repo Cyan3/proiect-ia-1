@@ -1,2 +1,2 @@
 # proiect-ia
-Proiect IA grupa B@
+Proiect IA grupa B2
