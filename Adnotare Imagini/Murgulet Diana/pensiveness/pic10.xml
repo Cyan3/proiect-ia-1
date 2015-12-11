@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <sadness>
+    <lonely_road>
+      <sentiment>-1.47</sentiment>
+      <emotion>0.098</emotion>
+    </lonely_road>
+    <misty_autumn>
+      <sentiment>-0.42</sentiment>
+      <emotion>0.058</emotion>
+    </misty_autumn>
+  </sadness>
+</imageAnno>

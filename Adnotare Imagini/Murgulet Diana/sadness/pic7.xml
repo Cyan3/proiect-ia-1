@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <sadness>
+    <broken_glass>
+      <sentiment>-0.89</sentiment>
+      <emotion>0.223</emotion>
+    </broken_glass>
+    <broken_window>
+      <sentiment>-1.54</sentiment>
+      <emotion>0.236</emotion>
+    </broken_window>
+  </sadness>
+</imageAnno>

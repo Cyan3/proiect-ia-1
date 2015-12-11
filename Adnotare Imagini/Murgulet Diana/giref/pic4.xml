@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <giref>
+    <sad_scene>
+      <sentiment>-1.28</sentiment>
+      <emotion>0.050</emotion>
+    </sad_scene>
+    <young_family>
+      <sentiment>2.0</sentiment>
+      <emotion>0.056</emotion>
+    </young_family>
+    <christian_religion>
+      <sentiment>1.8</sentiment>
+      <emotion>0.217</emotion>
+    </christian_religion>
+  </giref>
+</imageAnno>

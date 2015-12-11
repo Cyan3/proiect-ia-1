@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <giref>
+    <funerary_monument>
+      <sentiment>-1.25</sentiment>
+      <emotion>0.704</emotion>
+    </funerary_monument>
+    <funerary_statue>
+      <sentiment>-1.32</sentiment>
+      <emotion>0.604</emotion>
+    </funerary_statue>
+  </giref>
+</imageAnno>
